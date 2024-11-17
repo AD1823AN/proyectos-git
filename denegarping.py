@@ -55,7 +55,7 @@ def execute_action(action):
         messagebox.showerror("Error", "Acción no válida.")
 
 # Direcciones IP predeterminadas
-ips = ['172.168.3.122']
+ips = ['192.168.43.173']
 
 # Crear la interfaz gráfica
 root = tk.Tk()
