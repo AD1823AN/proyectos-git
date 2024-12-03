@@ -21,7 +21,6 @@ mov ah, 01h
 int 21h
 sub al, 30h
 mov d, al
-
 ; Segundo dígito
 mov ah, 01h
 int 21h
