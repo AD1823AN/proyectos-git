@@ -16,7 +16,6 @@ mov ds, ax
 mov ah, 09h
 lea dx, msg
 int 21h
-
 ; Primer dígito
 mov ah, 01h
 int 21h
