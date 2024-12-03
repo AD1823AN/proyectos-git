@@ -26,7 +26,6 @@ mov ah, 01h
 int 21h
 sub al, 30h
 mov u, al
-
 ; Tercer dígito
 mov ah, 01h
 int 21h
