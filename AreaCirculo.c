@@ -11,7 +11,6 @@ int main()
        scanf("%f",&r);
     }
     a=PI*r*r;
-    
     printf("\nel area es: %f",a);
     system("Pause");
     return 0;
