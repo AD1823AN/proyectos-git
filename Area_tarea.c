@@ -10,6 +10,5 @@ int main (){
 	printf("\n");
 	printf("Pause");
 return 0;		
-		
-	
+			
 }
