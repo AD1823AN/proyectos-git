@@ -6,7 +6,6 @@ int main()
     printf("ingrese el radio\n");
     scanf("%f",&r);
     while(r<=0)
-        
     {
        printf("el radio debe ser positivo\n");
        scanf("%f",&r);
