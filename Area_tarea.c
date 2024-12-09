@@ -17,7 +17,6 @@ int main (){
 	printf(" el area es: %f ", area);
 	
 	printf("\n");
-	
 	printf("Pause");
 return 0;					
 }
