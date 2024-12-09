@@ -3,7 +3,6 @@
 int main()
 {
     float a,r;
-    
     printf("ingrese el radio\n");
     scanf("%f",&r);
     while(r<=0)
