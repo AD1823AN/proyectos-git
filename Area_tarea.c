@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main (){	
-	
 	double d=10;
 	printf("ingrese el diametro\n",d);
 	double r = d/2 ;
