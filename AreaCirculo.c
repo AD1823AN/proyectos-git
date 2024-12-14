@@ -8,6 +8,7 @@ int main()
     while(r<=0)
     {
        printf("el radio debe ser positivo\n");
+        
        scanf("%f",&r);
         
     }
