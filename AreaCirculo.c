@@ -1,5 +1,5 @@
 #Adriana Trejo Patricio 
-Ing
+#Ingenieria
 #include<stdio.h>
 #define PI 3.141592654
 int main()
