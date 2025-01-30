@@ -1,4 +1,4 @@
-#Adriana Trejo 
+#Adriana Trejo Patricio 
 #include<stdio.h>
 #define PI 3.141592654
 int main()
