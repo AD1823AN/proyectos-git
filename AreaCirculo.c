@@ -1,5 +1,5 @@
 #Adriana Trejo Patricio 
-#Ingenieria
+#Ingenieria Sistemas Computacionales 
 #include<stdio.h>
 #define PI 3.141592654
 int main()
