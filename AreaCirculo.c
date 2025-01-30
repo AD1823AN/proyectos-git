@@ -1,4 +1,5 @@
-/*Adriana Trejo Patricio 
+/*Adriana Trejo Patricio
+Titulo:Area de un círculo 
 Ingenieria Sistemas Computacionales */
 #include<stdio.h>
 #define PI 3.141592654
