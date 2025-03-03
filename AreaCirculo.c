@@ -1,5 +1,4 @@
 /*Adriana Trejo Patricio
-
 Titulo:Area de un círculo 
 
 Ingenieria Sistemas Computacionales */
