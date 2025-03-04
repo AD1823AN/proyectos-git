@@ -1,5 +1,4 @@
 .MODEL SMALL
-
 .STACK
 
 .DATA
