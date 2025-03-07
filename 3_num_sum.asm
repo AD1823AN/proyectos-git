@@ -1,6 +1,7 @@
 .model small
 
 .stack
+
 .data
 u db 0
 d db 0
